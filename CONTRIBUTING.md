@@ -21,9 +21,12 @@ The Egg Academy may remove a contributor at any time, without notice, including 
 - [ ] No sensitive or personal data in the diff
 - [ ] No secrets or credentials
 - [ ] README updated if you add or change a tool folder
+- [ ] A new tool follows [SHIPPING.md](./SHIPPING.md)
 - [ ] I have the right to share this work, and I agree it is shared under this repo's licence (see root `LICENSE` and per-folder notes)
 
 ## Proposing a new tool
+
+Read [SHIPPING.md](./SHIPPING.md) first. That is the format for a tool another person can build in their own app.
 
 Open an issue: tool name, who it helps, and whether it is docs-only or includes code. A maintainer will suggest a folder name before you open a large PR.
 

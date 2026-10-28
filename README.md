@@ -20,7 +20,7 @@ Login, email, and file storage stay in **your** own app. This repo holds shared 
 
 ## Before you use or change anything
 
-Read [GOVERNANCE.md](./GOVERNANCE.md), [CONTRIBUTING.md](./CONTRIBUTING.md), and [SECURITY.md](./SECURITY.md).
+Read [GOVERNANCE.md](./GOVERNANCE.md), [CONTRIBUTING.md](./CONTRIBUTING.md), [SHIPPING.md](./SHIPPING.md), and [SECURITY.md](./SECURITY.md).
 
 **Never** commit vetting outcomes, identity documents, real people's contact details, passwords, API keys, or live credentials.
 
