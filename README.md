@@ -1,27 +1,23 @@
-# Youth sector tools
+# Open Source Egg
 
-Private working repository for tools two organisations are building together. Each tool lives in its own folder. The first one is [NZ Police vetting](nz-police-vetting/Police-Check-System.md).
+Community tools from [Egg Academy](https://www.eggacademy.co.nz/open-source-egg/). Each tool lives in its own folder. You can browse, copy, and fork what is here -- nothing is guaranteed to work in your environment.
 
-Login, email, and file storage stay in each organisation's own app. This repo holds the shared design and the files that design needs.
+**Repository:** [github.com/Egg-Academy/open-source-egg](https://github.com/Egg-Academy/open-source-egg)
 
-## Between the two of us
+Egg Academy maintains this repo. Delegated maintainers review pull requests before anything merges to `main`.
 
-This note is how the two invited parties share the work in this private repository.
-
-- Both parties may use, change, and run everything in this repository inside their own organisations.
-- Anything either party adds is shared on those same terms.
-- Neither party charges the other, and neither party has to support the other's live system.
-- Each party is responsible for its own police submissions, its own staff data, and its own privacy obligations.
-- This repository stays private unless both parties agree to open it.
-
-The NZ Police consent form in `nz-police-vetting/form/` is Police's blank form. Neither party owns that form.
-
-The guide screenshots were taken in an Egg Academy portal session so the steps are visible. Retake them under your own agency name before go-live.
-
-Real people's vetting records, identity documents, passwords, and keys do not belong in this repository.
+Login, email, and file storage stay in **your** organisation's own app. This repo holds shared design, reference material, and code you can adapt.
 
 ## Tools
 
 | Folder | What it is |
 | --- | --- |
-| `nz-police-vetting/` | Design for an NZ Police Vetting Service check, from the person record through the consent PDF, portal submission, and recorded result. |
+| `nz-police-vetting/` | Design for an NZ Police Vetting Service check (workflow, forms, portal steps). **Your** legal and privacy obligations apply when you implement it. |
+
+## Before you use or change anything
+
+Read [GOVERNANCE.md](./GOVERNANCE.md), [CONTRIBUTING.md](./CONTRIBUTING.md), and [SECURITY.md](./SECURITY.md).
+
+**Never** commit vetting outcomes, identity documents, real people's contact details, passwords, API keys, or live credentials.
+
+The NZ Police consent form in `nz-police-vetting/form/` is Police's blank form. Egg Academy does not own that form.
