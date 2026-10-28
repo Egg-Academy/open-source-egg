@@ -2,7 +2,7 @@
 
 Egg Academy's mission is to connect the world through creativity.
 
-Open Source Egg is a public place for community tools that serve that mission: practical things people can copy and adapt. The repo is overseen by the Egg Academy. The tools are not all ours. People the Egg Academy has added on GitHub can propose a tool that belongs here.
+Open Source Egg is a public place for community tools that serve that mission: practical things people can copy and adapt. The repo is overseen by the Egg Academy. The tools are not all ours. People the Egg Academy has added on GitHub can propose a tool that belongs here. Sign up as a contributor. See the [Contributing](CONTRIBUTING.md) page for how to become a contributor.
 
 Each tool lives in its own folder. Nothing here is guaranteed to work in your setup.
 
