@@ -21,7 +21,7 @@ Thanks for helping. The repo is **public** -- anyone can download or clone it. P
 
 Open an issue: tool name, who it helps, and whether it is docs-only or includes code. A maintainer will suggest a folder name before you open a large PR.
 
-A screenshot we can use as the tool's banner on the [Open Source Egg page](https://www.eggacademy.co.nz/open-source-egg/) is welcome. The Tools cards use a wide frame of 2.05:1. The banners there now are 742×337 and 639×331 pixels. A PNG of about 742×362 pixels fills that frame. Show the whole screen. We fit the picture inside the card without cropping it.
+A screenshot we can use as the tool's banner on the [Open Source Egg page](https://www.eggacademy.co.nz/open-source-egg/) is welcome. Please send a PNG at 1200×600 pixels, which is 2:1. Show the whole screen. The card centres the picture in that frame and does not crop it.
 
 ## Not legal advice
 
