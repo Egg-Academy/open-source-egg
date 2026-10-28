@@ -1,6 +1,6 @@
 # NZ Police vetting
 
-A community design for a New Zealand Police Vetting Service check, for you to build in your own app.
+A community design for a New Zealand Police Vetting Service check, for you to build in your own app. Your legal and privacy duties stay with you.
 
 Start with [Police-Check-System.md](Police-Check-System.md). It is written so a coding assistant can implement the flow against whatever login, email, and file storage you already have.
 

@@ -22,4 +22,4 @@
 
 ## Visibility and licence
 
-The repo is **public**. Egg Academy decides how each folder is licensed. Significant licence changes should be discussed in an issue before merge.
+The repo is **public**. Egg Academy decides how each folder is licenced. Significant licence changes should be discussed in an issue before merge.

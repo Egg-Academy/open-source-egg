@@ -8,7 +8,7 @@ Each tool lives in its own folder. Nothing here is guaranteed to work in your se
 
 Maintainers review pull requests before anything merges to `main`.
 
-Login, email, and file storage stay in **your** organisation's own app. This repo holds shared design, reference material, and code you can adapt.
+Login, email, and file storage stay in **your** own app. This repo holds shared design, reference material, and code you can adapt.
 
 ## Tools
 

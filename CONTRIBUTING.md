@@ -15,7 +15,7 @@ Thanks for helping. The repo is **public** -- clone or fork without asking. We u
 - [ ] No sensitive or personal data in the diff
 - [ ] No secrets or credentials
 - [ ] README updated if you add or change a tool folder
-- [ ] You are happy for your contribution to be licensed under this repo's licence (see root `LICENSE` and per-folder notes)
+- [ ] You are happy for your contribution to be shared under this repo's licence (see root `LICENSE` and per-folder notes)
 
 ## Proposing a new tool
 
