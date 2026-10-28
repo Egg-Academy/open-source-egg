@@ -69,7 +69,7 @@ A banner for the website is welcome. PNG, **1200×600** pixels (2:1). Show the w
 
 ## Before you open the pull request
 
-- [ ] A newcomer can build the tool from the spec without your repo
+- [ ] Someone who has never seen your private app can build the tool from this spec alone. They do not need your repo, database, or login.
 - [ ] Seams replace your database, login, email, and file storage
 - [ ] No secrets, live records, or production URLs
 - [ ] README in this repo lists the new folder
