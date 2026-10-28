@@ -1,10 +1,12 @@
 # Open Source Egg
 
-Community tools from [Egg Academy](https://www.eggacademy.co.nz/open-source-egg/). Each tool lives in its own folder. You can browse, copy, and fork what is here -- nothing is guaranteed to work in your environment.
+A public place for community tools that fit the [Egg Academy](https://www.eggacademy.co.nz/open-source-egg/) mission: practical things people can copy and adapt. Egg Academy looks after the repo. The tools are not all ours. Anyone can add one that belongs here.
+
+Each tool lives in its own folder. Nothing here is guaranteed to work in your setup.
 
 **Repository:** [github.com/Egg-Academy/open-source-egg](https://github.com/Egg-Academy/open-source-egg)
 
-Egg Academy maintains this repo. Delegated maintainers review pull requests before anything merges to `main`.
+Maintainers review pull requests before anything merges to `main`.
 
 Login, email, and file storage stay in **your** organisation's own app. This repo holds shared design, reference material, and code you can adapt.
 

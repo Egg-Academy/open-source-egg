@@ -5,10 +5,10 @@ Thanks for helping. The repo is **public** -- clone or fork without asking. We u
 ## Ground rules
 
 1. **No sensitive data** -- no vetting outcomes, ID images, real names tied to checks, children's private details, passwords, tokens, or `.env` files.
-2. **No promises** -- docs and code are provided as-is. Do not imply Egg Academy warranties production use.
+2. **No promises** -- docs and code are shared as-is. Do not imply a warranty for production use.
 3. **Fix bugs kindly** -- report and fix issues. Do not rewrite someone else's tool in place in a way that breaks their layout or intent. Prefer a **new folder** or fork-style copy if you want a substantially different design.
 4. **Nothing illegal** -- no malware, hidden payloads, cookie tricks, broken-on-purpose code, or steganography / hidden messages.
-5. **Human problems** -- tools here should help people do legitimate youth-sector or community work. If it does not fit that purpose, use another repo.
+5. **Human problems** -- add a tool when it helps people do legitimate youth-sector or community work, in the spirit of Egg Academy. If it does not fit, use another repo.
 
 ## Pull request checklist
 

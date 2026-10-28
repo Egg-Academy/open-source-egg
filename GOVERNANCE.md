@@ -1,11 +1,11 @@
 # Governance
 
-**Open Source Egg** is maintained by **Egg Academy** (the organisation).
+**Open Source Egg** is a community repo looked after by **Egg Academy**.
 
 ## What this repo is
 
-- Documentation and reference implementations for tools that help people solve human problems (youth work, admin, booking, compliance workflows, and similar).
-- **Not** a hosted service. Egg Academy does not run your copy. You deploy and operate tools in your own systems.
+- A place for tools from Egg Academy and from other contributors, when they fit the same mission: practical help people can adapt (youth work, admin, booking, compliance workflows, and similar).
+- Documentation and reference you can copy. **Not** a hosted service. Egg Academy does not run your copy. You deploy and operate tools in your own systems.
 
 ## What this repo is not
 

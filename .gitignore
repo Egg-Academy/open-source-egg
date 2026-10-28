@@ -1,3 +1,4 @@
+# Keep secrets, vetting results, and identity documents out of this repo.
 .DS_Store
 Thumbs.db
 desktop.ini

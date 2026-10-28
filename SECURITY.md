@@ -16,4 +16,4 @@ If you find vetting records, ID documents, or similar in history:
 
 ## Scope
 
-This policy covers the **open-source-egg** repository. Your deployed copy of any tool is your responsibility.
+This policy covers the **open-source-egg** repository, including tools other people contribute. Your deployed copy of any tool is your responsibility.
