@@ -1,6 +1,6 @@
 # Open Source Egg
 
-A public place for community tools that fit the [Egg Academy](https://www.eggacademy.co.nz/open-source-egg/) mission: practical things people can copy and adapt. Egg Academy looks after the repo. The tools are not all ours. Anyone can add one that belongs here.
+A public place for community tools that fit the [Egg Academy](https://www.eggacademy.co.nz/open-source-egg/) mission: practical things people can copy and adapt. Egg Academy looks after the repo. The tools are not all ours. People Egg Academy has added on GitHub can propose a tool that belongs here.
 
 Each tool lives in its own folder. Nothing here is guaranteed to work in your setup.
 

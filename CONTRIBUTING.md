@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping. The repo is **public** -- clone or fork without asking. We use GitHub's normal workflow: branch, open a pull request, get review, merge to `main` only after maintainer approval. You do not need to be a collaborator to open a PR from a fork.
+Thanks for helping. The repo is **public** -- anyone can download or clone it. Pull requests can only be opened by people Egg Academy has added on GitHub. Joining the website interest list does not add you. A maintainer still reviews each pull request before it merges to `main`.
 
 ## Ground rules
 

@@ -17,8 +17,8 @@
 
 - **Egg Academy** owns the programme direction and can change structure, licenses, or visibility.
 - **Maintainers** (people delegated by Egg Academy) review and merge pull requests to `main`.
-- **Everyone** may read, clone, and fork. Only maintainers merge to `main`.
-- **Contributors** use pull requests. GitHub collaborator access is granted manually when needed; joining the website interest list is not the same as repo write access.
+- **Everyone** may read, clone, and fork. Only people Egg Academy has added on GitHub can open a pull request. Only maintainers merge to `main`.
+- **Contributors** use pull requests after they have write access. That access is granted manually. Joining the website interest list does not add it.
 
 ## Visibility and licence
 
