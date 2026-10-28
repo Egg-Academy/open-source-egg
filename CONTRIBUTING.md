@@ -10,12 +10,18 @@ Thanks for helping. The repo is **public** -- anyone can download or clone it. P
 4. **Nothing illegal** -- no malware, hidden payloads, cookie tricks, broken-on-purpose code, or steganography / hidden messages.
 5. **A useful tool** -- add a tool when it helps with saving cost, youth-sector work, useful creative tooling, business-running tools, or community work. If it does not fit, use another repo.
 
+## Your contribution
+
+Opening a pull request means your work can be merged under the MIT licence in `LICENSE`, unless that folder says otherwise. Other people may use, copy, and adapt it. That permission stays with the code.
+
+The Egg Academy may remove a contributor at any time, without notice, including when someone misbehaves or acts outside these rules and the mission. See [GOVERNANCE.md](./GOVERNANCE.md).
+
 ## Pull request checklist
 
 - [ ] No sensitive or personal data in the diff
 - [ ] No secrets or credentials
 - [ ] README updated if you add or change a tool folder
-- [ ] You are happy for your contribution to be shared under this repo's licence (see root `LICENSE` and per-folder notes)
+- [ ] I have the right to share this work, and I agree it is shared under this repo's licence (see root `LICENSE` and per-folder notes)
 
 ## Proposing a new tool
 
