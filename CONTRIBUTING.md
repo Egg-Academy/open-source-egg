@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping. The repo is **public** -- anyone can download or clone it. Pull requests can only be opened by people Egg Academy has added on GitHub. Joining the website interest list does not add you. A maintainer still reviews each pull request before it merges to `main`.
+Thanks for helping. The repo is **public** -- anyone can download or clone it. Pull requests can only be opened by people the Egg Academy has added on GitHub. [Join the contributors interest list](https://www.eggacademy.co.nz/open-source-egg/) to get added. A maintainer still reviews each pull request before it merges to `main`.
 
 ## Ground rules
 
@@ -8,7 +8,7 @@ Thanks for helping. The repo is **public** -- anyone can download or clone it. P
 2. **No promises** -- docs and code are shared as-is. Do not imply a warranty for production use.
 3. **Fix bugs kindly** -- report and fix issues. Do not rewrite someone else's tool in place in a way that breaks their layout or intent. Prefer a **new folder** or fork-style copy if you want a substantially different design.
 4. **Nothing illegal** -- no malware, hidden payloads, cookie tricks, broken-on-purpose code, or steganography / hidden messages.
-5. **Human problems** -- add a tool when it helps people do legitimate youth-sector or community work, in the spirit of Egg Academy. If it does not fit, use another repo.
+5. **A useful tool** -- add a tool when it helps with saving cost, youth-sector work, useful creative tooling, business-running tools, or community work. If it does not fit, use another repo.
 
 ## Pull request checklist
 
@@ -20,6 +20,8 @@ Thanks for helping. The repo is **public** -- anyone can download or clone it. P
 ## Proposing a new tool
 
 Open an issue: tool name, who it helps, and whether it is docs-only or includes code. A maintainer will suggest a folder name before you open a large PR.
+
+A screenshot we can use as the tool's banner on the [Open Source Egg page](https://www.eggacademy.co.nz/open-source-egg/) is welcome. The Tools cards use a wide frame of 2.05:1. The banners there now are 742×337 and 639×331 pixels. A PNG of about 742×362 pixels fills that frame. Show the whole screen. We fit the picture inside the card without cropping it.
 
 ## Not legal advice
 
