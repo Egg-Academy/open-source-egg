@@ -12,6 +12,7 @@ Login, email, and file storage stay in **your** organisation's own app. This rep
 
 | Folder | What it is |
 | --- | --- |
+| `calendar-booking-system/` | Design for a calendar booking system: several named services, a public booking page, a private link to cancel or move, staff setup, and host emails. **Your** privacy obligations apply to the contact details you collect. |
 | `nz-police-vetting/` | Design for an NZ Police Vetting Service check (workflow, forms, portal steps). **Your** legal and privacy obligations apply when you implement it. |
 
 ## Before you use or change anything
