@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability or serious concern
 
-Email **security@egg.ac** (or your usual Egg Academy security contact). Do not open a public issue for exploitable security bugs.
+Email **kane@eggacademy.co.nz**. Do not open a public issue for exploitable security bugs.
 
 For concerns about **personal data accidentally committed** to this repo, contact us immediately so we can remove it and rotate any exposed credentials.
 
