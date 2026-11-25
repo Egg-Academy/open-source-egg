@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability or serious concern
 
-Email **kane@eggacademy.co.nz**. Do not open a public issue for an exploitable security bug, or for personal data that has been committed.
+Email **kane@eggacademy.co.nz**. Do not open a public issue for an exploitable security bug, or for personal data that has been committed to this repository.
 
 ## Sensitive data in the repo
 
